@@ -106,7 +106,7 @@ const ChatInterface = () => {
           </h2>
           <p className="text-gray-600">
             This chat interface was created to demonstrate the integration of
-            Perplexity AI's API with a Next.js application. It showcases
+            Perplexity AI&apos;s API with a Next.js application. It showcases
             real-time AI interactions and modern web development practices.
           </p>
         </div>
